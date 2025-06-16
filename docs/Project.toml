@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+LowDiscrepancySampling = "ac268149-dad5-40e5-8d89-b78112a2c2f5"
