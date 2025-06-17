@@ -1,4 +1,5 @@
 using Test
+using LowDiscrepancySampling: corput, halton
 
 @testset "Sampling Module Tests" begin
     @testset "Van der Corput Sequence" begin
