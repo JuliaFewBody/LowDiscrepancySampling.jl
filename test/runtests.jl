@@ -2,5 +2,8 @@ using LowDiscrepancySampling
 using Test
 
 @testset "LowDiscrepancySampling.jl" begin
-    # Write your tests here.
+
+include("test_Corput.jl")
+include("test_Hammersley.jl")
+
 end
